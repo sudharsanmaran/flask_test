@@ -1,0 +1,6 @@
+FLASK_APP = '__init__.py'
+FLASk_ENV = 'development'
+DATABASE_HOST = 'localhost'
+DATABASE_NAME = 'flask_db'
+DATABASE_USERNAME = 'postgres'
+DATABASE_PASSWORD = 'postgres'
